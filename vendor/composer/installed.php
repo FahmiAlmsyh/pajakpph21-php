@@ -3,7 +3,7 @@
         'name' => 'hitung/pph21',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '28b5ed4cc224af3cf14814b6b7e80b30b180d5c6',
+        'reference' => '8fdde3dd86966fff134feac9a25ccdea91a78c64',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'hitung/pph21' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '28b5ed4cc224af3cf14814b6b7e80b30b180d5c6',
+            'reference' => '8fdde3dd86966fff134feac9a25ccdea91a78c64',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
