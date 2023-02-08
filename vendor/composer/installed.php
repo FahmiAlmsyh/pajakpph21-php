@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'pph21/calculator',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'name' => 'hitung/pph21',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '13ff43c6e528ad049d93a5ae5611f86322f14e26',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'pph21/calculator' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+        'hitung/pph21' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '13ff43c6e528ad049d93a5ae5611f86322f14e26',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
